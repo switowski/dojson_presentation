@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <controlfield tag="001">2057943</controlfield>
+  <controlfield tag="003">SzGeCERN</controlfield>
+  <controlfield tag="005">20151008213809.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">oai:arXiv.org:1510.01914</subfield>
+    <subfield code="u">http://export.arxiv.org/oai2</subfield>
+    <subfield code="d">2015-10-08</subfield>
+    <subfield code="h">2015-10-08T05:20:02Z</subfield>
+    <subfield code="m">arXiv</subfield>
+    <subfield code="t">true</subfield>
+    <subfield code="9">arXiv</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">Inspire</subfield>
+    <subfield code="a">1396575</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">arXiv:1510.01914</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">PSI-PR-15-09</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">TUM-HEP-1019-15</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">ZU-TH 33-15</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">DCPT-15-122</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">IPPP-15-61</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Broggio, Alessandro</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Associated production of a top pair and a Higgs boson beyond NLO</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">07 Oct 2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">30 p</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Comments: 30 pages, 5 tables, 9 figures</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">We consider soft gluon emission corrections to the production of a top-antitop pair in association with a Higgs boson at hadron colliders. In particular, we present a soft-gluon resummation formula for this production process and gather all elements needed to evaluate it at next-to-next-to-leading logarithmic order. We employ these results to obtain approximate next-to-next-to-leading order (NNLO) formulas, and implement them in a bespoke parton-level Monte Carlo program which can be used to calculate the total cross section along with arbitrary differential distributions. We use this tool to study the phenomenological impact of the approximate NNLO corrections, finding that they increase the total cross section and the differential distributions which we evaluated in this work.</subfield>
+  </datafield>
+  <datafield tag="540" ind1=" " ind2=" ">
+    <subfield code="u">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</subfield>
+    <subfield code="b">arXiv</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">LANL EDS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="a">Particle Physics - Phenomenology</subfield>
+    <subfield code="2">arXiv</subfield>
+  </datafield>
+  <datafield tag="690" ind1="C" ind2=" ">
+    <subfield code="a">PREPRINT</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">hep-ph</subfield>
+    <subfield code="9">LANL EDS</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Ferroglia, Andrea</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Pecjak, Ben D</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Signer, Adrian</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Yang, Li Lin</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">http://arxiv.org/pdf/1510.01914.pdf</subfield>
+    <subfield code="y">Preprint</subfield>
+  </datafield>
+  <datafield tag="916" ind1=" " ind2=" ">
+    <subfield code="s">n</subfield>
+    <subfield code="w">201540</subfield>
+  </datafield>
+  <datafield tag="960" ind1=" " ind2=" ">
+    <subfield code="a">11</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PREPRINT</subfield>
+  </datafield>
+</record>
+</collection>
